@@ -11,7 +11,7 @@ constexpr auto Offset_ChunkSize = 0x3EB0;
 constexpr auto Offset_ObjID = 0x0010;
 
 constexpr auto Offset_CurrentLevel = 0x00D0;
-constexpr auto Offset_Actors = 0x0048;
+constexpr auto Offset_Actors = 0x00D0;
 constexpr auto Offset_GameInstance = 0x0210;
 constexpr auto Offset_LocalPlayers = 0x00D0;
 constexpr auto Offset_PlayerController = 0x0038;
