@@ -84,7 +84,7 @@ constexpr auto Offset_RorValue = 0x0D;
 constexpr auto Offset_IsingRor = false;
 
 //ATslGameState
-constexpr auto Offset_GameState = 0x08E8;
+constexpr auto Offset_GameState = 0x09C8;
 constexpr auto Offset_LerpSafetyZonePosition = 0x048C;
 constexpr auto Offset_LerpSafetyZoneRadius = 0x0678;
 constexpr auto Offset_PoisonGasWarningPosition = 0x066C;
