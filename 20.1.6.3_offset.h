@@ -14,7 +14,7 @@ constexpr auto Offset_XorKey2 = 0x11337420;
 constexpr auto Offset_RorValue = 0x07;
 constexpr auto Offset_IsingRor = false;
 
-constexpr auto Offset_CurrentLevel = 0x08A0;
+constexpr auto Offset_CurrentLevel = 0x0300;
 constexpr auto Offset_Actors = 0x0040;
 constexpr auto Offset_GameInstance = 0x0940;
 constexpr auto Offset_LocalPlayers = 0x00F0;
