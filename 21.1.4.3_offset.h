@@ -16,7 +16,7 @@ constexpr auto Offset_RorValue = 0x00;
 constexpr auto Offset_IsingRor = false;
 
 constexpr auto Offset_CurrentLevel = 0x0958;
-constexpr auto Offset_Actors = 0x00A8;
+constexpr auto Offset_Actors = 0x00B8;
 constexpr auto Offset_GameInstance = 0x0770;
 constexpr auto Offset_LocalPlayers = 0x0030;
 constexpr auto Offset_PlayerController = 0x0030;
