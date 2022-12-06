@@ -104,7 +104,7 @@ constexpr auto Offset_ExplodeState = 0x0568;
 
 constexpr auto Offset_BackpackState = 0x09438450;
 constexpr auto Offset_IsHall = 0x09021DB8;
-constexpr auto Offset_MapState = 0x06D8;
+constexpr auto Offset_MapState = 0x06C0;
 constexpr auto Offset_WorldOrigin = 0x07AC;
 
 constexpr auto Offset_MyHUD = 0x0498;
