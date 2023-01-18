@@ -3,6 +3,18 @@
 #ifndef Offset_h
 #define Offset_h
 
+constexpr auto Offset_GObjects = 0x0928A218;
+constexpr auto Offset_GWorld = 0x09436340;
+constexpr auto Offset_XenuineDecrypt = 0x07C40228;
+constexpr auto Offset_FNameEntry = 0x09285348;
+constexpr auto Offset_ChunkSize = 0x41E4;
+
+constexpr auto Offset_ObjID = 0x0008;
+constexpr auto Offset_XorKey1 = 0xD7DF91DC;
+constexpr auto Offset_XorKey2 = 0x03464730;
+constexpr auto Offset_RorValue = 0x0B;
+constexpr auto Offset_IsingRor = true;
+
 constexpr auto Offset_CurrentLevel = 0x0940;
 constexpr auto Offset_Actors = 0x0138;
 constexpr auto Offset_ActorsForGC = 0x0288;
