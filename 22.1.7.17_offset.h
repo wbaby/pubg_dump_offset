@@ -1,3 +1,8 @@
+#pragma once
+
+#ifndef Offset_h
+#define Offset_h
+
 constexpr auto Offset_GObjects = 0x09381FA0;
 constexpr auto Offset_GWorld = 0x093C35F0;
 constexpr auto Offset_XenuineDecrypt = 0x07D9DB28;
@@ -90,3 +95,5 @@ constexpr auto Offset_VehicleRiderComponent = 0x1BA0;
 constexpr auto Offset_SeatIndex = 0x0228;
 constexpr auto Offset_LastVehiclePawn = 0x0260;
 constexpr auto Offset_ReplicatedMovement = 0x0068;
+
+#endif
