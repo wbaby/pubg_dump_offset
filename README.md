@@ -1,6 +1,6 @@
 # pubg_dump_offset
 
-Continually updated.
+For some reason we had to stop the update, thanks to all kinds of support, goodbye.
 
 discord：https://discord.gg/XTZ3EbywDr
 
