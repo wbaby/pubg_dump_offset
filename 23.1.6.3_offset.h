@@ -25,6 +25,32 @@ constexpr auto Offset_OriginLocation = 0x0888;
 constexpr auto Offset_DeltaSeconds = 0x0780;
 constexpr auto Offset_TimeSeconds = 0x038C;
 
+constexpr auto Offset_GEngine = 0x0929A048;
+constexpr auto Offset_GameViewport = 0x0108;
+constexpr auto Offset_Overall = 0x0340;
+constexpr auto Offset_Canvas = 0x0430;
+constexpr auto Offset_DebugCanvas = 0x0438;
+constexpr auto Offset_CanvasSize = 0x0048;
+constexpr auto Offset_K2_DrawText = 0x05F84ED4;
+constexpr auto Offset_K2_DrawPolygon = 0x05F84E18;
+constexpr auto Offset_K2_DrawBox = 0x05F84B3C;
+constexpr auto Offset_K2_DrawTexture = 0x05F85018;
+constexpr auto Offset_AhudDrawText = 0x05D98AD8;
+constexpr auto Offset_AhudDrawLine = 0x05D985C0;
+constexpr auto Offset_AhudDrawRect = 0x05D98A14;
+
+constexpr auto Offset_Fonts_Roboto = 0x094E7038;
+constexpr auto Offset_GetUCanvcsCall = 0x00A2311C;
+constexpr auto Offset_DebugUCanvcsId = 0x094EA5E8;
+constexpr auto Offset_ConstDrawLineCall = 0x05D1578C;
+constexpr auto Offset_ConstDrawRectCall = 0x05F7BABC;
+constexpr auto Offset_ConstDrawCall = 0x009D7494;
+
+constexpr auto Offset_GetIconTexture = 0x0088DD80;
+constexpr auto Offset_ImportedSize = 0x00CC;
+constexpr auto Offset_WeaponIcon = 0x0420;
+constexpr auto Offset_WeaponIconRatio = 0x0428;
+
 constexpr auto Offset_LineTraceSingle = 0x05DD5854;
 constexpr auto Offset_CurrentBuildNumber = 0x0911F220;
 constexpr auto Offset_GameWindowSize = 0x090C2120;
